@@ -1,8 +1,8 @@
-= gdoc_puller.rb
+# gdoc_puller.rb
 
 For when you need to pull down a google spreadsheet into CSV over and over again.
 
-= Usage
+# Usage
 
 1. Add a document
 
